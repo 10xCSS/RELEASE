@@ -59,22 +59,23 @@ _-----------------------------------------------------------------------------_
 
 ### Styles
 - ❖ __`del`__ [LoaderBall__imnotsure](https://d001.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__imnotsure)
-- ❖ __`new`__ [LoaderBall__default](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__default) - The default LoaderBall style
-- ❖ __`new`__ [LoaderBall__defaultreverse](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__defaultreverse) - The default LoaderBall style, but in reverse
-- ❖ __`new`__ [LoaderBall__defaultinverted](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__defaultinverted) - The default LoaderBall style, but inverted
-- ❖ __`new`__ [LoaderBall__almost](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__almost) - A loader animation that almost rotates
-- ❖ __`new`__ [LoaderBall__alternate](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__alternate) - LoaderBall style that alternates rotate fall direction
-- ❖ __`new`__ [LoaderBall__ballin](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__ballin) - A proper bouncing ball, that’s ballin
-- ❖ __`new`__ [LoaderBall__chatty](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__chatty) - A chat-bubble loader, response notification, or just on-hold animation
-- ❖ __`new`__ [LoaderBall__cosmopolitan](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__cosmopolitan) - A cosmopolitan, presumably enjoyed on your yacht out at sea
-- ❖ __`new`__ [LoaderBall__fromto](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__fromto) - A Flip Cup loader to demonstrate from/to @keyframes
-- ❖ __`new`__ [LoaderBall__onceasquare](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__onceasquare) - Always a square, fitting squarely inside the mold
-- ❖ __`new`__ [LoaderBall__paused](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__paused) - A paused loader style (may appear incorrectly in the dashboard preview)
-- ❖ __`new`__ [LoaderBall__romancandle](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__romancandle) - A roman candle firework-like style
-- ❖ __`new`__ [LoaderBall__spinningcircle](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__spinningcircle) - A simple, bounce-free spinning circle loader
-- ❖ __`new`__ [LoaderBall__spinningdashes](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__spinningdashes) - A simple loader with bounce-free spinning dashes
-- ❖ __`new`__ [LoaderBall__spinningdots](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__spinningdots) - A simple loader with bounce-free spinning dots
-- ❖ __`new`__ [LoaderBall__spinningfast](https://demo.10xcss.com/dashboard/view?cid=LoaderBall&uid=LoaderBall__spinningfast) - A fast loader guaranteed to boost your JS app's speed by 1000hp
+- ❖ __`new`__ [LoaderBall__default](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__default) - The default LoaderBall style
+- ❖ __`new`__ [LoaderBall__defaultreverse](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__defaultreverse) - The default LoaderBall style, but in reverse
+- ❖ __`new`__ [LoaderBall__defaultinverted](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__defaultinverted) - The default LoaderBall style, but inverted
+- ❖ __`new`__ [LoaderBall__almost](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__almost) - A loader animation that almost rotates
+- ❖ __`new`__ [LoaderBall__alternate](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__alternate) - LoaderBall style that alternates rotate fall direction
+- ❖ __`new`__ [LoaderBall__ballin](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__ballin) - A proper bouncing ball, that’s ballin
+- ❖ __`new`__ [LoaderBall__chatty](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__chatty) - A chat-bubble loader, response notification, or just on-hold animation
+- ❖ __`new`__ [LoaderBall__cosmopolitan](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__cosmopolitan) - A cosmopolitan, presumably enjoyed on your yacht out at sea
+- ❖ __`new`__ [LoaderBall__fromto](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__fromto) - A Flip Cup loader to demonstrate from/to @keyframes
+- ❖ __`new`__ [LoaderBall__onceasquare](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__onceasquare) - Always a square, fitting squarely inside the mold
+- ❖ __`new`__ [LoaderBall__paused](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__paused) - A paused loader style (may appear incorrectly in the dashboard preview)
+- ❖ __`new`__ [LoaderBall__romancandle](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__romancandle) - A roman candle firework-like style
+- ❖ __`new`__ [LoaderBall__spinningcircle](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningcircle) - A simple, bounce-free spinning circle loader
+- ❖ __`new`__ [LoaderBall__spinningdashes](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningdashes) - A simple loader with bounce-free spinning dashes
+- ❖ __`new`__ [LoaderBall__spinningdots](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningdots) - A simple loader with bounce-free spinning dots
+- ❖ __`new`__ [LoaderBall__spinningfast](https://demo.10xcss.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningfast) - A fast loader guaranteed to boost your JS app's speed by 1000hp
+
 
 _-----------------------------------------------------------------------------_
 
