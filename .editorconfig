@@ -1,0 +1,215 @@
+################################################################################
+################################################################################
+################################################################################
+# EditorConfig is awesome
+# http://EditorConfig.org
+################################################################################
+
+# top-most EditorConfig file
+root = true
+charset = utf-8
+# Get rid of whitespace to avoid diffs with a bunch of EOL changes
+trim_trailing_whitespace = true
+
+[*]
+# We want to match the linux convension for linebreaks!
+end_of_line = lf
+# Clean files should close up every line with an linebreak
+insert_final_newline = true
+# Default nesting size for unspecified files
+indent_size = 2
+# Spaces are the right choice according to web standards
+indent_style = space
+# In most languages, single quotes are the better choice for plain strings
+quote_type = single
+
+################################################################################
+################################################################################
+################################################################################
+# 1 - special
+################################################################################
+[COMMIT_EDITMSG]
+max_line_length = 72
+
+################################################################################
+################################################################################
+################################################################################
+# 2 space indentation
+################################################################################
+
+################################################################################
+## PLAIN TEXT
+####
+[*.{txt,rtf}]
+indent_size = 2
+# Markdown - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
+[*.{md,markdown}]
+indent_size = 2
+# @NOTE -> fuck this (indent_size = 3) noise
+# reStructuredText - http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+[*.{Rmd,rst}]
+indent_size = 2
+trim_trailing_whitespace = false
+indent_style = space
+insert_final_newline = true
+# Todolists - https://github.com/aziz/PlainTasks
+[{TODO,*.{todo,todolist,tasks,taskpaper},todolist.txt}]
+indent_size = 2
+
+################################################################################
+## SOURCECODE FILES
+####
+# Google - https://google.github.io/styleguide/jsguide.html#formatting-block-indentation
+# Microsoft - https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#style - 8.
+# AirBnB - https://github.com/airbnb/javascript#whitespace
+[*.{js,jsx,ts,tsx,ats,es6,json,y{a,}ml,html,cwl}]
+indent_size = 2
+indent_style = space
+max_line_length = 80
+# PSR-2 - http://www.php-fig.org/psr/psr-2/#overview
+[*.{php,php4,php5,inc,module,hphp,pear}]
+indent_size = 4
+max_line_length = 120
+# Polarmobile - https://github.com/polarmobile/coffeescript-style-guide#tabs-or-spaces
+[*.coffee]
+indent_size = 2
+max_line_length = 79
+# Google - https://google.github.io/styleguide/shell.xml?showone=Indentation#Indentation
+[*.{bat,cmd,sh,zsh,shell,bash,docker-pihole-cron}]
+indent_style = space
+indent_size = 2
+max_line_length = 80
+# AirBnB - https://github.com/airbnb/ruby#whitespace
+[*.{rb,ruby}]
+indent_size = 2
+max_line_length = 100
+# Google - https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation
+# Twitter - https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md#indent-style
+[*.java]
+indent_size = 2
+max_line_length = 100
+continuation_indent_size = 4
+# Google - https://google.github.io/styleguide/cppguide.html#Spaces_vs._Tabs
+[*.{c,cpp,cc,h}]
+indent_size = 2
+max_line_length = 80
+continuation_indent_size = 4
+quote_type = auto
+
+################################################################################
+## STYLESHEETS
+####
+##### Braces based
+# Google - https://google.github.io/styleguide/htmlcssguide.html#Indentation
+[*.{css,scss,less,csx}]
+indent_size = 2
+####
+##### Nesting based files
+# Sass - http://sass-lang.com/styleguide/code
+[*.{sass,styl}]
+indent_size = 2
+max_line_length = 78
+
+################################################################################
+## TEMPLATE FILES
+####
+##### XML based files
+# Google - https://google.github.io/styleguide/xmlstyle.html - 11.7.
+[*.{xml,xlf,xsd,xsl,xslt,xul,svg,xml.dist}]
+indent_size = 2
+# Google - https://google.github.io/styleguide/htmlcssguide.html#Indentation
+[*.{sh,xh,h}t{m,ml}]
+indent_size = 2
+# Handlebars/Mustache ... lets use the google rules
+[*.{hbs,handlebars,mustache}]
+indent_size = 2
+# Angular and Smarty ... lets use the google rules as well
+[*.{ng,tpl}]
+indent_size = 2
+# Twig - http://twig.sensiolabs.org/doc/2.x/coding_standards.html
+[*.{sh,xh,h}t{m,ml}.{twig,swig,blade}]
+indent_size = 2
+####
+##### Nesting based files
+# Sass - http://sass-lang.com/styleguide/code
+[*.{haml,erb,rhtml,scaml,jade,pug}]
+indent_size = 2
+max_line_length = 78
+
+################################################################################
+## CONFIGURATION FILES
+####
+##### Braces based
+# (noop using 2) Crockford - http://javascript.crockford.com/code.html#indentation
+[*.json]
+indent_size = 2
+####
+##### Bracked based
+# Toml - https://github.com/toml-lang/toml#example
+[*.{ini,toml}]
+indent_size = 2
+####
+##### XML based files
+[*.plist]
+indent_size = 2
+continuation_indent_size = 4
+####
+##### Nesting based
+# Saltstack - https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html#spaces-vs-tabs
+[*.{yml,yaml,feature}]
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
+####
+##### Line based
+[*.conf]
+indent_size = 2
+# TypoScript
+[{**/Configuration/**.{txt,ts},*.t3s}]
+indent_size = 2
+################################################################################
+## DATABASE FILES
+[*.{sql,ddl,dql}]
+indent_size = 2
+
+
+
+
+
+################################################################################
+################################################################################
+################################################################################
+# 2 space indentation
+################################################################################
+
+################################################################################
+## SOURCECODE FILES
+# PEP8 - https://www.python.org/dev/peps/pep-0008/#indentation
+[*.{py,rs}]
+indent_size = 4
+max_line_length = 79
+continuation_indent_size = 8
+
+################################################################################
+## TEMPLATE FILES
+####
+##### XML based files
+# Laravell - Documentation uses 4 spaces in all examples ...
+[*.blade.php]
+indent_size = 4
+
+################################################################################
+## CONFIGURATION FILES
+####
+##### Line based
+[*.{htaccess,gitignore,npmignore,dockerignore}]
+indent_size = 4
+
+################################################################################
+## OTHER
+# GNU - https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html
+[{Makefile,makefile,**.mk,**.Makefile}]
+# Use tabs for indentation (Makefiles require tabs)
+indent_style = tab
+
