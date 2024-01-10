@@ -38,8 +38,25 @@ __TOC__
 > SPONSOR: <s>s003.10xCSS.com</s> <br/>
 
 
+### Components
+- ★ __`new`__ [Pattern Graph Paper](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper) - Graph paper pattern
+- ★ __`new`__ [Pattern Waves Rippled](https://sponsor.10xCSS.com/dashboard/view?cid=PatternWavesRippled&uid=PatternWavesRippled__default) - Pattern of waves rippled
+- ★ __`new`__ [Pattern Circle Howling](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - Pattern of circles howling
+- __`add`__ [Modern Font Stacks](https://github.com/system-fonts/modern-font-stacks) - `transition`, `old-style`, `humanist`, `geometric`, `classical`, `neo-gro`, `mono-slab`, `industrial`, `round-sans`, `slab-serif`, `antique`, `didone`, `hand`
+
+
 ### Styles
 - ❖ __`new`__ [LoaderBall__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__zerostyle) - An initial zero/blank style for the #cssexp series
+- ★ __`new`__ [PatternGraphPaper__default](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__default) - A graph paper pattern
+- ★ __`new`__ [PatternGraphPaper__pressf](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__pressf) - To pay respects to graph paper
+- ★ __`new`__ [PatternGraphPaper__tictactoe](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__tictactoe) - No description needed
+- ★ __`new`__ [PatternWavesRippled__default](https://sponsor.10xCSS.com/dashboard/view?cid=PatternWavesRippled&uid=PatternWavesRippled__default) - A WavesRippled pattern
+- ★ __`new`__ [PatternWavesRippled__art](https://sponsor.10xCSS.com/dashboard/view?cid=PatternWavesRippled&uid=PatternWavesRippled__art) - A artful WavesRippled pattern
+- ★ __`new`__ [PatternWavesRippled__artempty](https://sponsor.10xCSS.com/dashboard/view?cid=PatternWavesRippled&uid=PatternWavesRippled__artempty) - Does artful WavesRippled pattern look better empty?
+- ★ __`new`__ [PatternCircleHowling__default](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - A pattern of circles howling
+- ★ __`new`__ [PatternCircleHowling__flipped](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__flipped) - The pattern flipped around
+- ★ __`new`__ [PatternCircleHowling__groovyvanity](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__groovyvanity) - A vanity mirror shape of groovy-ness
+
 
 _-----------------------------------------------------------------------------_
 
