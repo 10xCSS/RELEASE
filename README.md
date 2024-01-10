@@ -35,7 +35,7 @@ __TOC__
 
 > __[in-progress]__ <br/>
 > DEMO: [d003.10xCSS.com](https://d003.10xCSS.com) <br/>
-> SPONSOR: <s>s003.10xCSS.com</s> <br/>
+> SPONSOR: [s003.10xCSS.com](https://s003.10xCSS.com) <br/>
 
 
 ### Components
