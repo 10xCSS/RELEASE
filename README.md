@@ -11,7 +11,8 @@ __Legend__
   __`add`__ - Add style/property to existing
   __`fix`__ - Corrections made
   __`del`__ - Style/property removed or deprecated
-  __`mod`__ - Modifications or updates to existing
+  __`mod`__ - Modification to existing behavior
+  __`imp`__ - Improvement to existing
  -->
 
 
@@ -30,7 +31,6 @@ __TOC__
 <br />
 
 
-
 ## v0.0.3
 
 > __[in-progress]__ <br/>
@@ -38,7 +38,16 @@ __TOC__
 > SPONSOR: [s003.10xCSS.com](https://s003.10xCSS.com) <br/>
 
 
+### BREAKING
+- ❖ [Inputter](https://d002.10xcss.com/dashboard/presets?cid=Inputter) - Removed and replaced with [InputFlex](https://d003.10xcss.com/dashboard/presets?cid=InputFlex)
+
+### TODO
+- ★ Merge/unify the sponsor and demo applications, with focus on the sorting and organization of styles
+- Implement a feature allowing middle-click mouse actions to minimize individual widgets
+- Enable multi-tab synchronization outside of livetab-mode
+
 ### Components
+- ❖ __`new`__ [Gradient Card](http://demo.10xCSS.com/dashboard/view?cid=GradientCard) - A trendy, merch moving, gradient card style
 - ★ __`new`__ [Pattern Graph Paper](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper) - Graph paper pattern
 - ★ __`new`__ [Pattern Waves Rippled](https://sponsor.10xCSS.com/dashboard/view?cid=PatternWavesRippled&uid=PatternWavesRippled__default) - Pattern of waves rippled
 - ★ __`new`__ [Pattern Circle Howling](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - Pattern of circles howling
@@ -46,7 +55,6 @@ __TOC__
 
 
 ### Styles
-- ❖ __`new`__ [LoaderBall__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__zerostyle) - An initial zero/blank style for the #cssexp series
 - ★ __`new`__ [PatternGraphPaper__default](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__default) - A graph paper pattern
 - ★ __`new`__ [PatternGraphPaper__pressf](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__pressf) - To pay respects to graph paper
 - ★ __`new`__ [PatternGraphPaper__tictactoe](https://sponsor.10xCSS.com/dashboard/view?cid=PatternGraphPaper&uid=PatternGraphPaper__tictactoe) - No description needed
@@ -56,23 +64,64 @@ __TOC__
 - ★ __`new`__ [PatternCircleHowling__default](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - A pattern of circles howling
 - ★ __`new`__ [PatternCircleHowling__flipped](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__flipped) - The pattern flipped around
 - ★ __`new`__ [PatternCircleHowling__groovyvanity](https://sponsor.10xCSS.com/dashboard/view?cid=PatternCircleHowling&uid=PatternCircleHowling__groovyvanity) - A vanity mirror shape of groovy-ness
+- ❖ __`new`__ [LoaderBall__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__zerostyle) - An initial zero/blank style for the #cssexp series
+- ❖ __`new`__ [IconCandy__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__zerostyle) - An initial zero/blank style for the #cssexp series
+- ❖ __`new`__ [GradientCard__default](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__default) - Default gradient card style
+- ❖ __`new`__ [GradientCard__center_full](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__center_full) - A more center-full gradient card
+- ❖ __`new`__ [GradientCard__center_with](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__center_with) - A center card style with extra gradient
+- ❖ __`new`__ [GradientCard__centered](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__centered) - A simple, centered, gradient card
+- ❖ __`new`__ [GradientCard__diamond](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__diamond) - A CSS gem gradient card style
+- ❖ __`new`__ [GradientCard__making_an_impact](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__making_an_impact) - Is hard; but customizing this style is easy
+- ❖ __`new`__ [GradientCard__making_declarations](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__making_declarations) - Is hard; but customizing this style is easy
+- ❖ __`new`__ [GradientCard__nine_rhymes](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__nine_rhymes) - A nine rhymes door gradient, and probs my favorite of the lot
+- ❖ __`new`__ [GradientCard__offset_btm_left](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_btm_left) - A bottom-left offset gradient card
+- ❖ __`new`__ [GradientCard__offset_btm_left_alt](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_btm_left_alt) - An alt bottom-left offset gradient card
+- ❖ __`new`__ [GradientCard__offset_btm_right](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_btm_right) - A bottom-right offset gradient card
+- ❖ __`new`__ [GradientCard__offset_btm_right_alt](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_btm_right_alt) - An alt bottom-right offset gradient card
+- ❖ __`new`__ [GradientCard__offset_top_left](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_top_left) - A top-left offset gradient card
+- ❖ __`new`__ [GradientCard__offset_top_right](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__offset_top_right) - A top-right offset gradient card
+- ❖ __`new`__ [GradientCard__on_an_even_keel](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__on_an_even_keel) - A sea-sailing gradient style
+- ❖ __`new`__ [GradientCard__outside_in](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__outside_in) - An outside, inside, the gradient card
+- ❖ __`new`__ [GradientCard__paint_it_black](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__paint_it_black) - Just Rolling Stones
+- ❖ __`new`__ [GradientCard__rounded](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__rounded) - A well rounded gradient card style with a small width
+- ❖ __`new`__ [GradientCard__spacin_and_pacin](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__spacin_and_pacin) - A gradient card style that’s spacin’ and pacin’
+- ❖ __`new`__ [GradientCard__spacin_around](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__spacin_around) - A gradient card style that’s just spacin’ around
+- ❖ __`new`__ [GradientCard__spinning_rust](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__spinning_rust) - A CSS harddrive-ish gradient style every dev needs
+- ❖ __`new`__ [GradientCard__typical_left](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__typical_left) - The commonplace left offset gradient card style
+- ❖ __`new`__ [GradientCard__typical_right](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__typical_right) - The commonplace right offset gradient card style
+- ❖ __`new`__ [GradientCard__zero_style](http://demo.10xCSS.com/dashboard/view?cid=GradientCard&uid=GradientCard__zero_style) - An initial zero/blank style for the #cssexp series
+
 
 
 _-----------------------------------------------------------------------------_
 
 ### Documentation
 - ❖ Note the version number link on the bottom-left SideNav to open the [CHANGELOG](https://github.com/10xCSS/CHANGELOG) version
+- Toast info popup for "State `@media`" feature on toggle
+  - The **State @media** feature addresses unwanted persistence of `:hover` and `:focus` states after mobile touch inputs through `any-hover` queries plus an additional smart-only `:active` state. Usefulness of this feature is dependent on the `Element` it’s applied to. For a `button`, it’s quite useful, whereas for a `div`, not so much.
+- Expand `font-family` widget notes and link [Iosevka](https://typeof.net/Iosevka/) and the adoption source [Modern Font Stacks](https://modernfontstacks.com)
 
 ### Features
 - __`new`__ Select widget [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
 - __`new`__ Zoom component for share.10xCSS.com, enhancing mobile and general aesthetics
 
 ### Fixes
-- Incorrect initial background on share.10xCSS.com clone/create style
+- Corrected the initial background color when cloning a style from share.10xCSS.com
+- Added text overflow scroll to component notes
+- Disabled `auto` on `padding`, as it is not a valid option
+- Corrected the erroneous `:active` state logic in "State `@media`" code option
+- Adjusted the dashboard preview to only scroll to on initial view
+
+### Improvements
+- Enhanced the color widget input to accept `hsl`, `hsla`, `rgb`, `rgba`, and `lch` formats, in addition to the standard hex color input
+- Updated the dashboard preview to scroll to the active card tab when it's not in view
+- Included all font weights for [Iosevka](https://github.com/be5invis/Iosevka) on both the app and share domains
 
 ### Refactor
-- ❖ Replace title ` | ` with ` / ` for schema unification
-- Update share.10xCSS.com mobile styles
+- ❖ Replaced the title delimiter ` | ` with ` / ` for schema unification
+- Updated share.10xCSS.com mobile styles
+- Increased the lightness of all white colors by 1-2%
+- Set "State `@media`" code generation to be disabled by default
 
 
 <br />
