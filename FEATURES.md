@@ -28,15 +28,15 @@ __TOC__
 #### Minimize Individual Widgets
 - `middle+click` to open/close
 
-_(todo-video-placeholder)_
+https://github.com/10xCSS/CHANGELOG/assets/9544140/b81858a6-ff17-40c0-bfab-f9456eb62cf3
+
 
 #### Symmetrical Unified Bezier Curve
 
 - `shift+move` enables inverse position movements
 - `ctrl+move` enables unifed position movements
 
-_(todo-video-placeholder)_
-
+https://github.com/10xCSS/CHANGELOG/assets/9544140/de6c0aff-52fa-46f9-b250-e54f0077abc1
 
 
 ## v0.0.3
