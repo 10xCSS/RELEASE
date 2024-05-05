@@ -24,29 +24,33 @@ _(todo-video-placeholder)_
 > `desc`: Default [TextOutline](https://10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__default) style <br/>
 > `link`: [demo.10xCSS.com/preset#TextOutline__default](https://demo.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__default) <br/>
 > `time`: 2023-12-26 ⇒ 2024-04-09 <br/>
+> `vers`: 1 <br/>
 
-_(todo-gif-placeholder)_
+<img src="./assets/TextOutline__default.png" alt="Default TextOutline style" title="Default" width="540" />
 
 
 ### FIRE
 > `desc`: Thick fire outline, that’s on the border of text-shadow abuse. <br/>
 > `link`: [demo.10xCSS.com/preset#TextOutline__fire](https://demo.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__fire) <br/>
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
+> `vers`: 1 <br/>
 
-_(todo-gif-placeholder)_
+<img src="./assets/TextOutline__fire.png" alt="Thick fire outline, that’s on the border of text-shadow abuse." title="FIRE" width="540" />
 
 
 ### TxT YoU
 > `desc`: A txt outline that’s slightly thicker at the bottom <br/>
-> `link`: [demo.10xCSS.com/preset#TextOutline__txtyou](https://demo.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__txtyou) <br/>
-> `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
+> `link`: [demo.10xCSS.com/preset#TextOutline__txt_you](https://demo.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__txt_you) <br/>
+> `time`: 2024-04-27 ⇒ 2024-04-29 <br/>
+> `vers`: 1 <br/>
 
-_(todo-gif-placeholder)_
+<img src="./assets/TextOutline__txt_you.png" alt="A txt outline that’s slightly thicker at the bottom" title="TxT YoU" width="540" />
 
 
 ### YOLO
 > `desc`: Unequivocally qualifies as text-shadow abuse in all major states. <br/>
 > `link`: [demo.10xCSS.com/preset#TextOutline__yolo](https://demo.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__yolo) <br/>
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
+> `vers`: 1 <br/>
 
-_(todo-gif-placeholder)_
+<img src="./assets/TextOutline__yolo.png" alt="Unequivocally qualifies as text-shadow abuse in all major states." title="YOLO" width="540" />
