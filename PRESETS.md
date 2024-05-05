@@ -241,11 +241,11 @@ _(todo-video-placeholder)_
 ## Popsicle
 
 > __`CID `__  Popsicle <br/>
-> __`DESC`__  A family favorite style — the [@wesbos](https://twitter.com/wesbos) Popsicle. <br/>
+> __`DESC`__  A family favorite — a Popsicle style by [@wesbos](https://twitter.com/wesbos). <br/>
 > __`DOCS`__  [./presets/Popsicle.md](./presets/Popsicle.md) <br/> 
 > __`LINK`__  [demo.10xCSS.com/preset#Popsicle](https://demo.10xCSS.com/preset#Popsicle) <br/>
 > __`NOTE`__  An example of a simpler component in terms of its editable properties. <br/>
-> __`VERS`__  1 <br/>
+> __`VERS`__  2 <br/>
 
 
 _(todo-video-placeholder)_
@@ -257,11 +257,11 @@ _(todo-video-placeholder)_
 ## Rate It
 
 > __`CID `__  RateIt <br/>
-> __`DESC`__  A neat single-div star/icon rating thingy, sourced from one of my favorite CSS deities, [@anatudor](https://twitter.com/anatudor). <br/>
+> __`DESC`__  A dynamic single-div rating icon, text, and/or thingamabob, sourced from one of my favorite CSS deities, [@anatudor](https://twitter.com/anatudor). <br/>
 > __`DOCS`__  [./presets/RateIt.md](./presets/RateIt.md) <br/> 
 > __`LINK`__  [demo.10xCSS.com/preset#RateIt](https://demo.10xCSS.com/preset#RateIt) <br/>
-> __`NOTE`__  none <br/>
-> __`VERS`__  1 <br/>
+> __`NOTE`__  The rating value can be dynamically adjustable via the  CSS property `--RateIt-rating-value`. For a basic example, refer to the JavaScript implementation within the HTML output. <br/>
+> __`VERS`__  2 <br/>
 
 
 _(todo-video-placeholder)_
