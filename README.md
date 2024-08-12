@@ -13,7 +13,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 <!-- /MDTOC -->
 
 > [!TIP]
-> Pictures of each component preset can be found in the `/presets` directory; for an overview, see [PRESETS.md](./PRESETS.md)
+> Each component preset style has an image in `/presets`; see [PRESETS.md](./PRESETS.md) for an overview
 
 
 ## v0.0.5
@@ -22,7 +22,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 > DEMO: [demo.10xCSS.com](https://demo.10xCSS.com) <br/>
 
 ### __TODO/IN-PROGRESS__
-- Marketing: the task that makes me leap out of bed and jump with joy!!!
+- **Marketing!** The task that makes me leap out of bed and jump with joy!!!
 - Add the backlog of new styles which are accumulating and gathering dust
 - Merge/unify the sponsor and demo applications with tag-tabbed organization of styles
 
@@ -54,7 +54,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 
 
 ### __BREAKING__
-- Rename this document to [RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES)
+- Rename this document to [RELEASE](https://github.com/10xCSS/RELEASE)
 - __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/dashboard/presets?cid=SteppedTimeline&uid=SteppedTimeline__default)
 - __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/preset#SteppedTimeline)
 
@@ -72,23 +72,23 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 </details>
 
 
-### Components (__`cid`__)
+### Components
 - [SteppedTimeline](https://demo.10xCSS.com/dashboard/presets?cid=SteppedTimeline&uid=SteppedTimeline__default)
   - __`add`__ <samp>★</samp> Custom step content text
   - __`imp`__ General structure, organization, naming schema, and HTML/CSS
-  - __`fix`__Yucky bleed when two contrasting colours used
+  - __`fix`__ Yucky bleed when two contrasting colours used
   - __`del`__ Useless CSS properties and old-forgotten styles
   - Similar to [TimelineN](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default), but better, like butter
 
 ### Documentation
-- Streamline About page with improved content, pricing info, and mobile styles
-- Add onboarding messaging, FAQ, and better "Don't Show Again" on exit
-- Include additional mobile info, context, links, and link to About page
+- Streamline About page with improved content, pricing, and mobile styles
+- Refine onboarding messaging, FAQ, and on exit "Don't Show Again" toast
+- Include additional mobile popup/info, context, links, and link to About page
 
 ### Fixes
 - Track down a significant memory leak
   - Reduce heap growth from 223MB to 40MB after 20 new buttons
-  - Thanks to [memlab](https://facebook.github.io/memlab) and [BLeak](https://github.com/plasma-umass/BLeak) for helping identify the issue
+  - Big shout-out to [memlab](https://facebook.github.io/memlab) and [BLeak](https://github.com/plasma-umass/BLeak)
 - Validate share/clone data for newly cloned styles
 - Correct incorrect zero history value for clones/shares
 - Apply CSS styles on LiveTab when using a style with non-default selectors
@@ -99,9 +99,9 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 - Disable whitespace trimming to preserve content input
 
 ### Improvements
-- Deviate history logic with notification to prevent inadvertent overwriting
+- History deviation logic with notification to prevent inadvertent overwriting
 - Implement vertical stacking dimension widget, so input and unit are always next to each other
-- Include a (`<title>.full.html`) file with both HTML and CSS for easy viewing in a browser in Takeout
+- Include a (`<title>.full.html`) file in Takeout export with both HTML and CSS for easy browser-able viewing
 - Implement dynamic font injection to correctly render/encode font families when generating a shared image
 - Update/unify font-stack with improved loading via waterfall loading and FontFace to prevent UI blocking
   - Font-stack/details: [editor.md#modern-font-stack](./features/editor.md#modern-font-stack)
@@ -115,7 +115,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
   - <kbd>click</kbd><samp>+</samp><kbd>alt/ctrl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd> <samp>=</samp> expand
 
 ### Various Bit Bytes
-- Add a modal BookMe button in SideNav as the current project is nearing completion
+- Add a modal BookMe button in SideNav as my current project is nearing completion
 - Inline favicon and update description/meta information
 
 <br />
@@ -273,7 +273,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 - Improve [/config](https://demo.10xCSS.com/config) wording with helpful notes and short demo videos
   - __`vid`__ [editor.md#anchor-link-navigation](./features/editor.md#anchor-link-navigation)
   - __`vid`__ [editor.md#livetab-expand-view](./features/editor.md#livetab-expand-view)
-- Include a picture (and GIF depending) of all `uid` presets in this RELEASE-NOTES
+- Include a picture (and GIF depending) of all `uid` presets in this RELEASE
   - Location: `./presets/<cid>.md#<uid>`
 
 ### Features
@@ -330,7 +330,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 - [Inputter](https://v002.10xCSS.com/dashboard/presets?cid=Inputter) - Remove and replace with [InputFlex](https://v003.10xCSS.com/dashboard/presets?cid=InputFlex)
 
 ### Documentation
-- Note the version number link on the bottom-left SideNav to open the [RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES) version
+- Note the version number link on the bottom-left SideNav to open the [RELEASE](https://github.com/10xCSS/RELEASE) version
 - Add toast info popup for "State `@media`" feature on toggle
   - The **State @media** feature addresses unwanted persistence of `:hover` and `:focus` states after mobile touch inputs through `any-hover` queries plus an additional smart-only `:active` state. Usefulness of this feature is dependent on the `Element` it’s applied to. For a `button`, it’s quite useful, whereas for a `div`, not so much.
 - Expand `font-family` widget notes and link [Iosevka](https://typeof.net/Iosevka/) and the adoption source [Modern Font Stacks](https://modernfontstacks.com)
@@ -404,11 +404,11 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 
 ### Features
 - Display current version of the application at the bottom of SideNav, linked & labeled as `vX.X.X`
-  - Links to RELEASE-NOTES
+  - Links to RELEASE
   - <samp>★</samp> Links to static version of the app for reference, stability, and consistency
 
 ### Init
-- [github.com/10xCSS/RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES)
+- [github.com/10xCSS/RELEASE](https://github.com/10xCSS/RELEASE)
 - <samp>★</samp> [sponsor.10xCSS.com](https://sponsor.10xCSS.com)
 - <samp>★</samp> [github.com/10xCSS/sponsor](https://github.com/10xCSS/sponsor)
 
