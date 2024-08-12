@@ -12,6 +12,9 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 - [legend](#legend)
 <!-- /MDTOC -->
 
+> [!TIP]
+> Pictures of each component preset can be found in the `/presets` directory; for an overview, see [PRESETS.md](./PRESETS.md)
+
 
 ## v0.0.5
 
