@@ -152,12 +152,12 @@ _(todo-video-placeholder)_
 
 
 ### Roasted
-> `desc`: Freshly roasted radio buttons made with organic wonderstate.com beanz <br/>
+> `desc`: Freshly roasted radio buttons made with organic wonderstate beanz <br/>
 > `link`: [demo.10xCSS.com/preset#InputRadioPop__roasted](https://demo.10xCSS.com/dashboard/presets?cid=InputRadioPop&uid=InputRadioPop__roasted) <br/>
-> `time`: 2024-03-19 ⇒ 2024-04-16 <br/>
+> `time`: 2024-03-19 ⇒ 2024-08-07 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/InputRadioPop__roasted.png" alt="Freshly roasted radio buttons made with organic wonderstate.com beanz" title="Roasted" width="540" />
+<img src="./assets/InputRadioPop__roasted.png" alt="Freshly roasted radio buttons made with organic wonderstate beanz" title="Roasted" width="540" />
 
 
 ### Slowly Poppin’

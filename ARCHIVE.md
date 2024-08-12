@@ -4,11 +4,19 @@ The styles listed here in the ARCHIVE have been phased out, reworked, or trashed
 
 |Table                |of                   |Contents             |
 |:--------------------|:--------------------|:--------------------|
-|[v0.0.4](#v004)      |[v0.0.3](#v003)      |[v0.0.2](#v002)      |
+|[v0.0.5](#v005)      |[v0.0.3](#v003)      |                     |
+|[v0.0.4](#v004)      |[v0.0.2](#v002)      |                     |
 
 <br/>
 
 
+
+
+## v0.0.5
+|__DELETED__                                                                                                           |🔴                                                                                                                    |🔴                                                                                                                    |🔴                                                                                                                    |🔴                                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|[RateIt__vas](https://v004.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__vas)                                   |[TextOutline__fire](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__fire)                  |[TextOutline__yolo](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__yolo)                  |[TimelineN__dark_left](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__dark_left)              |[TimelineN__full_y_countless](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y_countless)|
+|[TextOutline__default](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__default)            |[TextOutline__txt_you](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__txt_you)            |[TimelineN__default](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default)                  |[TimelineN__full_y](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y)                    |[TimelineN__single_lined](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__single_lined)        |
 
 
 ## v0.0.4

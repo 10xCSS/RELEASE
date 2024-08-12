@@ -25,7 +25,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/c7832245-fb91-450f-946f-07e15
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ATwoPropStyle__default.png" alt="Default ATwoPropStyle style" title="Default" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ATwoPropStyle__default.gif" alt="Default ATwoPropStyle style" title="Default" width="540" />
+</details>
 
 
 ### That’s That
@@ -34,4 +38,8 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/c7832245-fb91-450f-946f-07e15
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ATwoPropStyle__thatsthat.png" alt="Can’t do two much with two props, but it demonstrates the ability to limit inputs" title="That’s That" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ATwoPropStyle__thatsthat.gif" alt="Can’t do two much with two props, but it demonstrates the ability to limit inputs" title="That’s That" width="540" />
+</details>

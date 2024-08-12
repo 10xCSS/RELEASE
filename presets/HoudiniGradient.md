@@ -24,7 +24,7 @@ _(todo-video-placeholder)_
 ### Default
 > `desc`: Default [HoudiniGradient](https://10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__default) style <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__default](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__default) <br/>
-> `time`: 2023-10-22 ⇒ 2024-04-09 <br/>
+> `time`: 2023-10-22 ⇒ 2024-06-07 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__default.png" alt="Default HoudiniGradient style" title="Default" width="540" />
@@ -33,7 +33,7 @@ _(todo-video-placeholder)_
 ### Black Magic
 > `desc`: The black magic themed default HoudiniGradient <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__black_magic](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__black_magic) <br/>
-> `time`: 2024-04-27 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-07 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__black_magic.png" alt="The black magic themed default HoudiniGradient" title="Black Magic" width="540" />
@@ -51,7 +51,7 @@ _(todo-video-placeholder)_
 ### Lilac Blooms
 > `desc`: A slow but steady lilac bloom style <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__lilac_blooms](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__lilac_blooms) <br/>
-> `time`: 2024-04-27 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-07 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__lilac_blooms.png" alt="A slow but steady lilac bloom style" title="Lilac Blooms" width="540" />
@@ -60,7 +60,7 @@ _(todo-video-placeholder)_
 ### Manic & Panic
 > `desc`: A doubly inducing manic and panic style <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__manic_panic](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__manic_panic) <br/>
-> `time`: 2024-04-27 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-07 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__manic_panic.png" alt="A doubly inducing manic and panic style" title="Manic & Panic" width="540" />
@@ -69,7 +69,7 @@ _(todo-video-placeholder)_
 ### Mixin Colors
 > `desc`: A color mixing style with true periwinkle and seafoam green <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__mixin_colors](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__mixin_colors) <br/>
-> `time`: 2024-04-27 ⇒ 2024-04-29 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-06 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__mixin_colors.png" alt="A color mixing style with true periwinkle and seafoam green" title="Mixin Colors" width="540" />
@@ -78,7 +78,7 @@ _(todo-video-placeholder)_
 ### TickTock
 > `desc`: A tick-tock progress style <br/>
 > `link`: [demo.10xCSS.com/preset#HoudiniGradient__tick_tock](https://demo.10xCSS.com/dashboard/presets?cid=HoudiniGradient&uid=HoudiniGradient__tick_tock) <br/>
-> `time`: 2024-04-27 ⇒ 2024-05-03 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-07 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/HoudiniGradient__tick_tock.png" alt="A tick-tock progress style" title="TickTock" width="540" />

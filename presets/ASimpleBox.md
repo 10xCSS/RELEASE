@@ -31,7 +31,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2022-02-02 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__default.png" alt="Default ASimpleBox style" title="Default" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__default.gif" alt="Default ASimpleBox style" title="Default" width="540" />
+</details>
 
 
 ### Default vw
@@ -40,7 +44,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__default_vw.png" alt="Default style, with fixed ratio box using vw for relative sizing" title="Default vw" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__default_vw.gif" alt="Default style, with fixed ratio box using vw for relative sizing" title="Default vw" width="540" />
+</details>
 
 
 ### Default vmin vmax
@@ -49,7 +57,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__default_vmin_vmax.png" alt="Default style, sized with vmin](https://www.w3.org/TR/css-values-3/#vmin) and [vmax for relative viewport sizing" title="Default vmin vmax" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__default_vmin_vmax.gif" alt="Default style, sized with vmin](https://www.w3.org/TR/css-values-3/#vmin) and [vmax for relative viewport sizing" title="Default vmin vmax" width="540" />
+</details>
 
 
 ### Borderless
@@ -58,7 +70,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__borderless.png" alt="A border-less box style" title="Borderless" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__borderless.gif" alt="A border-less box style" title="Borderless" width="540" />
+</details>
 
 
 ### Box Shadow Inset
@@ -67,7 +83,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__box_shadow_inset.png" alt="Box style with an inset](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow#inset) [box-shadow" title="Box Shadow Inset" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__box_shadow_inset.gif" alt="Box style with an inset](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow#inset) [box-shadow" title="Box Shadow Inset" width="540" />
+</details>
 
 
 ### Box Shadow
@@ -76,7 +96,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__box_shadow.png" alt="Box style with a drop box-shadow" title="Box Shadow" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__box_shadow.gif" alt="Box style with a drop box-shadow" title="Box Shadow" width="540" />
+</details>
 
 
 ### Circle Me Impressed
@@ -85,7 +109,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__circle_me_impressed.png" alt="A circular style dressed to impress" title="Circle Me Impressed" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__circle_me_impressed.gif" alt="A circular style dressed to impress" title="Circle Me Impressed" width="540" />
+</details>
 
 
 ### Five From One
@@ -94,7 +122,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__five_from_one.png" alt="One div, five boxes" title="Five From One" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__five_from_one.gif" alt="One div, five boxes" title="Five From One" width="540" />
+</details>
 
 
 ### Forty-one From One
@@ -103,7 +135,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__forty_one_from_one.png" alt="One div, forty-one boxes" title="Forty-one From One" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__forty_one_from_one.gif" alt="One div, forty-one boxes" title="Forty-one From One" width="540" />
+</details>
 
 
 ### Framed
@@ -112,7 +148,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__framed.png" alt="A framed box style, guilty of inseting the box-shadow" title="Framed" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__framed.gif" alt="A framed box style, guilty of inseting the box-shadow" title="Framed" width="540" />
+</details>
 
 
 ### Neumorphed A11y
@@ -121,7 +161,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-29 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__neumorphed_ally.png" alt="This anti-accessibility style throws the baby out with the bathwater" title="Neumorphed A11y" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__neumorphed_ally.gif" alt="This anti-accessibility style throws the baby out with the bathwater" title="Neumorphed A11y" width="540" />
+</details>
 
 
 ### Neumorphism
@@ -130,7 +174,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__neumorphism.png" alt="A stylish trend, or a Dribbble conspiracy to waste my precious time?" title="Neumorphism" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__neumorphism.gif" alt="A stylish trend, or a Dribbble conspiracy to waste my precious time?" title="Neumorphism" width="540" />
+</details>
 
 
 ### Neumorphspiracy
@@ -139,7 +187,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__neumorphspiracy.png" alt="The price of colorimeters keeps rising. Coincidence? I think not." title="Neumorphspiracy" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__neumorphspiracy.gif" alt="The price of colorimeters keeps rising. Coincidence? I think not." title="Neumorphspiracy" width="540" />
+</details>
 
 
 ### Shape Door
@@ -148,7 +200,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__shape_door.png" alt="Perforated door-shaped style" title="Shape Door" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__shape_door.gif" alt="Perforated door-shaped style" title="Shape Door" width="540" />
+</details>
 
 
 ### Shape Pill
@@ -157,7 +213,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__shape_pill.png" alt=" Pill-shaped style with a dose of clinical CSS" title="Shape Pill" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__shape_pill.gif" alt=" Pill-shaped style with a dose of clinical CSS" title="Shape Pill" width="540" />
+</details>
 
 
 ### Shape Sharkfin
@@ -166,7 +226,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__shape_sharkfin.png" alt="Green Sea sharkfin-shaped style" title="Shape Sharkfin" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__shape_sharkfin.gif" alt="Green Sea sharkfin-shaped style" title="Shape Sharkfin" width="540" />
+</details>
 
 
 ### Shouldn’t Do
@@ -175,7 +239,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__shouldnt_do.png" alt="You shouldn’t do this, but you can, at the cost of your A11y humanity" title="Shouldn’t Do" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__shouldnt_do.gif" alt="You shouldn’t do this, but you can, at the cost of your A11y humanity" title="Shouldn’t Do" width="540" />
+</details>
 
 
 ### Wrong But Right
@@ -184,7 +252,11 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-03-27 ⇒ 2024-04-29 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__wrong_but_right.png" alt="These shadows may be all wrong, but somehow it feels all right" title="Wrong But Right" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__wrong_but_right.gif" alt="These shadows may be all wrong, but somehow it feels all right" title="Wrong But Right" width="540" />
+</details>
 
 
 ### Zero Style
@@ -193,4 +265,8 @@ https://github.com/10xCSS/CHANGELOG/assets/9544140/5e4579b2-d694-404e-ba14-74d89
 > `time`: 2024-01-27 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
+<img src="./assets/ASimpleBox__zero_style.png" alt="A baseline zero/blank style for the #cssexp video series" title="Zero Style" width="540" />
+<details>
+<summary> <b>GIF</b> <i>(click to reveal)</i> </summary>
 <img src="./assets/ASimpleBox__zero_style.gif" alt="A baseline zero/blank style for the #cssexp video series" title="Zero Style" width="540" />
+</details>

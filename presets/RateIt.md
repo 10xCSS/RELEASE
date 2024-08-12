@@ -10,13 +10,14 @@
 
 |Table                                                |of                                                   |Contents                                             |
 |:----------------------------------------------------|:----------------------------------------------------|:----------------------------------------------------|
-|[Default](#default)                                  |[Cash Money](#cash-money)                            |[Funding](#funding)                                  |
-|[Default Reverse](#default-reverse)                  |[Code](#code)                                        |[Rainy Rating](#rainy-rating)                        |
-|[Default Vertical](#default-vertical)                |[Death](#death)                                      |[Text At Most](#text-at-most)                        |
-|[Default Vertical Reverse](#default-vertical-reverse)|[Dubs](#dubs)                                        |[Text Hate](#text-hate)                              |
-|[Bar Gradient](#bar-gradient)                        |[Dusty Six Star](#dusty-six-star)                    |[Text Love](#text-love)                              |
-|[Bar Tiny](#bar-tiny)                                |[Emoji Alt](#emoji-alt)                              |[Yes](#yes)                                          |
-|[Bar Vertical](#bar-vertical)                        |[Emoji](#emoji)                                      |[ARCHIVE](#archive)                                  |
+|[Default](#default)                                  |[Code](#code)                                        |[Text At Most](#text-at-most)                        |
+|[Default Reverse](#default-reverse)                  |[Death](#death)                                      |[Text Hate](#text-hate)                              |
+|[Default Vertical](#default-vertical)                |[Dubs](#dubs)                                        |[Text Love](#text-love)                              |
+|[Default Vertical Reverse](#default-vertical-reverse)|[Dusty Six Star](#dusty-six-star)                    |[van](#van)                                          |
+|[Bar Gradient](#bar-gradient)                        |[Emoji Alt](#emoji-alt)                              |[vat](#vat)                                          |
+|[Bar Tiny](#bar-tiny)                                |[Emoji](#emoji)                                      |[Yes](#yes)                                          |
+|[Bar Vertical](#bar-vertical)                        |[Funding](#funding)                                  |[ARCHIVE](#archive)                                  |
+|[Cash Money](#cash-money)                            |[Rainy Rating](#rainy-rating)                        |                                                     |
 ---
 
 ### _All-in-One_
@@ -100,7 +101,7 @@ _(todo-video-placeholder)_
 ### Code
 > `desc`: Only code with languages that have an HN rating of three tildes or greater <br/>
 > `link`: [demo.10xCSS.com/preset#RateIt__code](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__code) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-04 <br/>
 > `vers`: 2 <br/>
 
 <img src="./assets/RateIt__code.png" alt="Only code with languages that have an HN rating of three tildes or greater" title="Code" width="540" />
@@ -172,7 +173,7 @@ _(todo-video-placeholder)_
 ### Text At Most
 > `desc`: There is no law against using this style solely for text <br/>
 > `link`: [demo.10xCSS.com/preset#RateIt__text_at_most](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__text_at_most) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-04 <br/>
 > `vers`: 2 <br/>
 
 <img src="./assets/RateIt__text_at_most.png" alt="There is no law against using this style solely for text" title="Text At Most" width="540" />
@@ -181,7 +182,7 @@ _(todo-video-placeholder)_
 ### Text Hate
 > `desc`: Just some text hate <br/>
 > `link`: [demo.10xCSS.com/preset#RateIt__text_hate](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__text_hate) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 2 <br/>
 
 <img src="./assets/RateIt__text_hate.png" alt="Just some text hate" title="Text Hate" width="540" />
@@ -190,19 +191,37 @@ _(todo-video-placeholder)_
 ### Text Love
 > `desc`: Just some text love <br/>
 > `link`: [demo.10xCSS.com/preset#RateIt__text_love](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__text_love) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 2 <br/>
 
 <img src="./assets/RateIt__text_love.png" alt="Just some text love" title="Text Love" width="540" />
 
 
-### Yes
-> `desc`: I did spend an hour+ creating this style, and no, I don’t regret it <br/>
-> `link`: [demo.10xCSS.com/preset#RateIt__yes](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__yes) <br/>
-> `time`: 2024-05-03 <br/>
+### van
+> `desc`: A type of road vehicle used for carting small children to soccer practice <br/>
+> `link`: [demo.10xCSS.com/preset#RateIt__van](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__van) <br/>
+> `time`: 2024-06-04 <br/>
 > `vers`: 2 <br/>
 
-<img src="./assets/RateIt__yes.png" alt="I did spend an hour+ creating this style, and no, I don’t regret it" title="Yes" width="540" />
+<img src="./assets/RateIt__van.png" alt="A type of road vehicle used for carting small children to soccer practice" title="van" width="540" />
+
+
+### vat
+> `desc`: A type of tax that is assessed incrementally in non-american monies <br/>
+> `link`: [demo.10xCSS.com/preset#RateIt__vat](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__vat) <br/>
+> `time`: 2024-06-04 <br/>
+> `vers`: 2 <br/>
+
+<img src="./assets/RateIt__vat.png" alt="A type of tax that is assessed incrementally in non-american monies" title="vat" width="540" />
+
+
+### Yes
+> `desc`: I did spend an hour+ creating this preset, and no, I don’t regret it <br/>
+> `link`: [demo.10xCSS.com/preset#RateIt__yes](https://demo.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__yes) <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
+> `vers`: 2 <br/>
+
+<img src="./assets/RateIt__yes.png" alt="I did spend an hour+ creating this preset, and no, I don’t regret it" title="Yes" width="540" />
 
 ---
 

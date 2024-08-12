@@ -34,7 +34,7 @@ _(todo-video-placeholder)_
 ### Beating Heart
 > `desc`: A heart that beats on hover <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__beating_heart](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__beating_heart) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__beating_heart.png" alt="A heart that beats on hover" title="Beating Heart" width="540" />
@@ -43,7 +43,7 @@ _(todo-video-placeholder)_
 ### Bell Pop
 > `desc`: My fourth favorite sub-alt genre of bell music <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__bell_pop](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__bell_pop) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__bell_pop.png" alt="My fourth favorite sub-alt genre of bell music" title="Bell Pop" width="540" />
@@ -52,7 +52,7 @@ _(todo-video-placeholder)_
 ### Bell Solid
 > `desc`: A solid bell style that rings on hover <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__bell_solid](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__bell_solid) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__bell_solid.png" alt="A solid bell style that rings on hover" title="Bell Solid" width="540" />
@@ -79,7 +79,7 @@ _(todo-video-placeholder)_
 ### Essential CSS
 > `desc`: The most essential star-spinning style on 10xCSS <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__essential_css](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__essential_css) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__essential_css.png" alt="The most essential star-spinning style on 10xCSS" title="Essential CSS" width="540" />
@@ -106,7 +106,7 @@ _(todo-video-placeholder)_
 ### More Simple
 > `desc`: A vertical three-dot more icon that simply changes color on hover <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__more_simple](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__more_simple) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__more_simple.png" alt="A vertical three-dot more icon that simply changes color on hover" title="More Simple" width="540" />
@@ -115,7 +115,7 @@ _(todo-video-placeholder)_
 ### More Swap
 > `desc`: A vertical three-dot more icon that swaps colors on hover <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__more_swap](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__more_swap) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__more_swap.png" alt="A vertical three-dot more icon that swaps colors on hover" title="More Swap" width="540" />
@@ -133,7 +133,7 @@ _(todo-video-placeholder)_
 ### PANIC
 > `desc`: PANIC <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__panic](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__panic) <br/>
-> `time`: 2024-05-03 <br/>
+> `time`: 2024-05-03 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__panic.png" alt="PANIC" title="PANIC" width="540" />
@@ -160,7 +160,7 @@ _(todo-video-placeholder)_
 ### Square Chat
 > `desc`: A chatty square icon button with a hover state <br/>
 > `link`: [demo.10xCSS.com/preset#IconCandy__square_chat](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__square_chat) <br/>
-> `time`: 2024-04-27 ⇒ 2024-05-03 <br/>
+> `time`: 2024-04-27 ⇒ 2024-06-17 <br/>
 > `vers`: 1 <br/>
 
 <img src="./assets/IconCandy__square_chat.png" alt="A chatty square icon button with a hover state" title="Square Chat" width="540" />
