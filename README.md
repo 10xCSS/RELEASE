@@ -1,46 +1,131 @@
-# CHANGELOG / 10xCSS
-> [demo.10xCSS.com](https://demo.10xCSS.com) <br/>
+<h1>
+RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.10xCSS.com</a>
+<img src="https://github.com/10xCSS/CHANGELOG/assets/9544140/e0f00f6e-3b66-4477-bf41-d95f3f22d8a5" width="50" align="right" />
+</h1>
 
 <!-- MDTOC auto="2" levels="1,2" -->
-
-- [v0.0.4](#v004) _[in-progress]_
+- [v0.0.5](#v005) _[in-progress]_
+- [v0.0.4](#v004) _`BREAKING`  DaisyUiRadio, HeftyHero, RateIt, Popsicle_
 - [v0.0.3](#v003) _`BREAKING` Inputter_
 - [v0.0.2](#v002) _`BREAKING` LoaderBall_
 - [v0.0.1](#v001)
 - [legend](#legend)
-
 <!-- /MDTOC -->
 
---- 
+
+## v0.0.5
+
+> __[in-progress]__ <br/>
+> DEMO: [demo.10xCSS.com](https://demo.10xCSS.com) <br/>
+
+### __TODO/IN-PROGRESS__
+- Marketing: the task that makes me leap out of bed and jump with joy!!!
+- Add the backlog of new styles which are accumulating and gathering dust
+- Merge/unify the sponsor and demo applications with tag-tabbed organization of styles
+
+<details>
+<summary>🟢 <h3>ADDED</h3> <i>(click to reveal)</i> </summary>
+
+|__ADDED__                                                                               |🟢                                                                                      |🟢                                                                                      |
+|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
+|[GradientCard__skewy](./presets/GradientCard.md#skewy)                                  |[SteppedTimeline__default_textfull](./presets/SteppedTimeline.md#default-textfull)      |[TextOnShadow__four_bit](./presets/TextOnShadow.md#four-bit)                            |
+|[GradientCard__squaring_off](./presets/GradientCard.md#squaring-off)                    |[SteppedTimeline__default_two](./presets/SteppedTimeline.md#default-two)                |[TextOnShadow__funky](./presets/TextOnShadow.md#funky)                                  |
+|[RateIt__van](./presets/RateIt.md#van)                                                  |[SteppedTimeline__defeats_the_purpose](./presets/SteppedTimeline.md#defeats-the-purpose)|[TextOnShadow__hot_cross_buns](./presets/TextOnShadow.md#hot-cross-buns)                |
+|[RateIt__vat](./presets/RateIt.md#vat)                                                  |[SteppedTimeline__for_free](./presets/SteppedTimeline.md#for-free)                      |[TextOnShadow__ice](./presets/TextOnShadow.md#ice)                                      |
+|[PatternWavesRippled__art](./presets/PatternWavesRippled.md#art)                        |[SteppedTimeline__inside_numbers](./presets/SteppedTimeline.md#inside-numbers)          |[TextOnShadow__is_it_me](./presets/TextOnShadow.md#is-it-me)                            |
+|[PatternWavesRippled__art_empty](./presets/PatternWavesRippled.md#art-empty)            |[SteppedTimeline__line_break](./presets/SteppedTimeline.md#line-break)                  |[TextOnShadow__neo_new](./presets/TextOnShadow.md#neo-new)                              |
+|[PatternWavesRippled__default](./presets/PatternWavesRippled.md#default)                |[SteppedTimeline__number_down](./presets/SteppedTimeline.md#number-down)                |[TextOnShadow__neo_not](./presets/TextOnShadow.md#neo-not)                              |
+|[PatternWavesRippled__my_kind_of_door](./presets/PatternWavesRippled.md#my-kind-of-door)|[SteppedTimeline__rain_maker](./presets/SteppedTimeline.md#rain-maker)                  |[TextOnShadow__porous](./presets/TextOnShadow.md#porous)                                |
+|[PatternWavesRippled__ufo](./presets/PatternWavesRippled.md#ufo)                        |[SteppedTimeline__tabbed](./presets/SteppedTimeline.md#tabbed)                          |[TextOnShadow__shadow_both](./presets/TextOnShadow.md#shadow-both)                      |
+|[SteppedTimeline__boxing_in](./presets/SteppedTimeline.md#boxing-in)                    |[SteppedTimeline__thinly_lined](./presets/SteppedTimeline.md#thinly-lined)              |[TextOnShadow__shadow_cross](./presets/TextOnShadow.md#shadow-cross)                    |
+|[SteppedTimeline__boxy_line](./presets/SteppedTimeline.md#boxy-line)                    |[SteppedTimeline__yellowin_inline](./presets/SteppedTimeline.md#yellowin-inline)        |[TextOnShadow__shadow_diagonal](./presets/TextOnShadow.md#shadow-diagonal)              |
+|[SteppedTimeline__default](./presets/SteppedTimeline.md#default)                        |[TextOnShadow__blurry](./presets/TextOnShadow.md#blurry)                                |[TextOnShadow__showbiz](./presets/TextOnShadow.md#showbiz)                              |
+|[SteppedTimeline__default_align_left](./presets/SteppedTimeline.md#default-align-left)  |[TextOnShadow__bottom_left](./presets/TextOnShadow.md#bottom-left)                      |[TextOnShadow__spooky](./presets/TextOnShadow.md#spooky)                                |
+|[SteppedTimeline__default_custom_seed](./presets/SteppedTimeline.md#default-custom-seed)|[TextOnShadow__bottom_right](./presets/TextOnShadow.md#bottom-right)                    |[TextOnShadow__top](./presets/TextOnShadow.md#top)                                      |
+|[SteppedTimeline__default_custom_text](./presets/SteppedTimeline.md#default-custom-text)|[TextOnShadow__default](./presets/TextOnShadow.md#default)                              |[TextOnShadow__top_left](./presets/TextOnShadow.md#top-left)                            |
+|[SteppedTimeline__default_impactless](./presets/SteppedTimeline.md#default-impactless)  |[TextOnShadow__default_outline](./presets/TextOnShadow.md#default-outline)              |[TextOnShadow__top_right](./presets/TextOnShadow.md#top-right)                          |
+|[SteppedTimeline__default_many](./presets/SteppedTimeline.md#default-many)              |[TextOnShadow__erotic_myopic](./presets/TextOnShadow.md#erotic-myopic)                  |[TextOnShadow__x_marks_the_spot](./presets/TextOnShadow.md#x-marks-the-spot)            |
+|[SteppedTimeline__default_stepless](./presets/SteppedTimeline.md#default-stepless)      |[TextOnShadow__fancy](./presets/TextOnShadow.md#fancy)                                  |                                                                                        |
+
+</details>
+
+
+### __BREAKING__
+- Rename this document to [RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES)
+- __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/dashboard/presets?cid=SteppedTimeline&uid=SteppedTimeline__default)
+- __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/preset#SteppedTimeline)
+
+
+<details>
+<summary>🔴 <h3>DELETED</h3> <i>(click to reveal)</i> </summary>
+
+|__DELETED__                                                                                                           |🔴                                                                                                                    |🔴                                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|
+|[RateIt__vas](https://v004.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__vas)                                   |[TextOutline__yolo](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__yolo)                  |[TimelineN__full_y_countless](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y_countless)|
+|[TextOutline__default](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__default)            |[TimelineN__default](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default)                  |[TimelineN__single_lined](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__single_lined)        |
+|[TextOutline__fire](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__fire)                  |[TimelineN__dark_left](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__dark_left)              |                                                                                                                      |
+|[TextOutline__txt_you](https://v004.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__txt_you)            |[TimelineN__full_y](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y)                    |                                                                                                                      |
+
+</details>
+
+
+### Components (__`cid`__)
+- [SteppedTimeline](https://demo.10xCSS.com/dashboard/presets?cid=SteppedTimeline&uid=SteppedTimeline__default)
+  - __`add`__ <samp>★</samp> Custom step content text
+  - __`imp`__ General structure, organization, naming schema, and HTML/CSS
+  - __`fix`__Yucky bleed when two contrasting colours used
+  - __`del`__ Useless CSS properties and old-forgotten styles
+  - Similar to [TimelineN](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default), but better, like butter
+
+### Documentation
+- Streamline About page with improved content, pricing info, and mobile styles
+- Add onboarding messaging, FAQ, and better "Don't Show Again" on exit
+- Include additional mobile info, context, links, and link to About page
+
+### Fixes
+- Track down a significant memory leak
+  - Reduce heap growth from 223MB to 40MB after 20 new buttons
+  - Thanks to [memlab](https://facebook.github.io/memlab) and [BLeak](https://github.com/plasma-umass/BLeak) for helping identify the issue
+- Validate share/clone data for newly cloned styles
+- Correct incorrect zero history value for clones/shares
+- Apply CSS styles on LiveTab when using a style with non-default selectors
+- Add a fallback save/check to prevent a rare bug causing saved styles to not appear in the list
+- Fix bad toaster capture logic on mouse out
+- Fix loading bug that prevented the About page from loading properly when coming from the Builder/Editor page
+- Prevent phantom saves from appearing in preview after deletion
+- Disable whitespace trimming to preserve content input
+
+### Improvements
+- Deviate history logic with notification to prevent inadvertent overwriting
+- Implement vertical stacking dimension widget, so input and unit are always next to each other
+- Include a (`<title>.full.html`) file with both HTML and CSS for easy viewing in a browser in Takeout
+- Implement dynamic font injection to correctly render/encode font families when generating a shared image
+- Update/unify font-stack with improved loading via waterfall loading and FontFace to prevent UI blocking
+  - Font-stack/details: [editor.md#modern-font-stack](./features/editor.md#modern-font-stack)
+
+### Refactor
+- Update CSS styling/behavior for About page and several minor widget updates
+- Remove base64 inline fonts, making the demo ~2MB lighter
+- Remove LZ-String compression (plan to re-implement as an optional global setting)
+- Change the expand view shortcut for better usability:
+  - <kbd>click</kbd><samp>+</samp><kbd>shift/middle</kbd> <samp>=</samp> livetab
+  - <kbd>click</kbd><samp>+</samp><kbd>alt/ctrl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd> <samp>=</samp> expand
+
+### Various Bit Bytes
+- Add a modal BookMe button in SideNav as the current project is nearing completion
+- Inline favicon and update description/meta information
+
+<br />
+<br />
 
 
 ## v0.0.4
 
-> __[in-progress]__ <br/>
+> __2024-06-20__ <br/>
+> DEMO: [v004.10xCSS.com](https://v004.10xCSS.com) <br/>
 
-
-### __TODO/IN-PROGRESS__
-- **NOTE**: Lots and lots of updates and new styles this version
-- Preset style video GIFs/log/preview
-- Update this CHANGELOG, with a whole slew of feats, presets, fixes
-- Merge/unify the sponsor and demo applications with tab-ed organization of styles
-
-### __BREAKING__
-- __`mod`__ Many presets renamed - check the [ARCHIVE.md#v004](./ARCHIVE.md#v004)
-- __`del`__ [Hero](https://v003.10xCSS.com/dashboard/presets?cid=Hero&uid=Hero__default) - replaced with [HeftyHero](https://demo.10xCSS.com/dashboard/presets?cid=HeftyHero&uid=HeftyHero__default)
-- __`del`__ [DaisyUiRadio](https://v003.10xCSS.com/dashboard/presets?cid=DaisyUiToggle&uid=DaisyUiToggle__default)
-- __`imp`__  [RateIt](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__default) - reworked/improved with added directions: x-axis, x-axis reversed, y-axis, y-axis reversed
-
-
-
-
-### Features
-- __`new`__ ❖ Add system-emoji font option
-- __`new`__ ❖ Warn of multi-tab synchronization issues outside of livetab-mode
-- __`new`__ ★ Middle+click mouse actions to minimize individual widgets - [FEATURES.md/video](./FEATURES.md#minimize-individual-widgets)
-- __`new`__ ★ Symmetrical/unified Bezier curve editing with `ctrl+shift` - [FEATURES.md/video](./FEATURES.md#symmetrical-unified-bezier-curve)
-
-
+<details>
+<summary>🟢 <h3>ADDED</h3> <i>(click to reveal)</i> </summary>
 
 |__ADDED__                                                                               |🟢                                                                                      |🟢                                                                                      |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
@@ -135,7 +220,22 @@
 |[BadgeSet__zero_style](./presets/BadgeSet.md#zero-style)                                |[RateIt__dusty_six_star](./presets/RateIt.md#dusty-six-star)                            |[InputRadioPop__square_top](./presets/InputRadioPop.md#square-top)                      |
 |[CoolHover__default_dot_two](./presets/CoolHover.md#default-dot-two)                    |[RateIt__emoji_alt](./presets/RateIt.md#emoji-alt)                                      |[InputRadioPop__what_not_todo](./presets/InputRadioPop.md#what-not-todo)                |
 |[CoolHover__default_inverted](./presets/CoolHover.md#default-inverted)                  |[RateIt__funding](./presets/RateIt.md#funding)                                          |[InputRadioPop__whole_square](./presets/InputRadioPop.md#whole-square)                  |
+</details>
 
+
+### __BREAKING__
+- __`del`__ [DaisyUiRadio](https://v003.10xCSS.com/dashboard/presets?cid=DaisyUiToggle&uid=DaisyUiToggle__default)
+- __`del`__ [Hero](https://v003.10xCSS.com/dashboard/presets?cid=Hero&uid=Hero__default) - replace with [HeftyHero](https://v004.10xCSS.com/dashboard/presets?cid=HeftyHero&uid=HeftyHero__default)
+- __`imp`__ [RateIt](https://v004.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__default) - rework/improve with added directions: x-axis, x-axis reversed, y-axis, y-axis reversed
+- __`mod`__ [Popsicle](https://v004.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__default) - Reorganize/move stick variables
+- __`mod`__ Disable "State `@media`" code generation by default
+- __`mod`__ Ditch separate sponsor app `s004.10xCSS.com` in favor of an integrated solution
+- __`mod`__ Font-stacks (more details in Features)
+- __`mod`__ Rename many presets - check DELETED below or [ARCHIVE.md#v004](./ARCHIVE.md#v004)
+
+
+<details>
+<summary>🔴 <h3>DELETED</h3> <i>(click to reveal)</i> </summary>
 
 |__DELETED__                                                                                                                           |🔴                                                                                                                                    |🔴                                                                                                                                    |
 |:-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
@@ -163,13 +263,59 @@
 |[CoolHover__singletopleft](https://v003.10xCSS.com/dashboard/presets?cid=CoolHover&uid=CoolHover__singletopleft)                      |[IconCandy__icononly](https://v003.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__icononly)                                |[RateIt__rainyrating](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__rainyrating)                                   |
 |[CoolHover__singletopright](https://v003.10xCSS.com/dashboard/presets?cid=CoolHover&uid=CoolHover__singletopright)                    |[IconCandy__poweron](https://v003.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__poweron)                                  |[TextOutline__txtyou](https://v003.10xCSS.com/dashboard/presets?cid=TextOutline&uid=TextOutline__txtyou)                              |
 |[DaisyUiRadio__aperturealing](https://v003.10xCSS.com/dashboard/presets?cid=DaisyUiRadio&uid=DaisyUiRadio__aperturealing)             |[IconCandy__poweronsquared](https://v003.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__poweronsquared)                    |                                                                                                                                      |
+</details>
 
+### Documentation
+- Add init toast note about being [open-core](https://en.wikipedia.org/wiki/Open-core_model) alongside a use-[IP](https://en.wikipedia.org/wiki/Intellectual_property)-as-you-please incantation
+- Improve [/config](https://demo.10xCSS.com/config) wording with helpful notes and short demo videos
+  - __`vid`__ [editor.md#anchor-link-navigation](./features/editor.md#anchor-link-navigation)
+  - __`vid`__ [editor.md#livetab-expand-view](./features/editor.md#livetab-expand-view)
+- Include a picture (and GIF depending) of all `uid` presets in this RELEASE-NOTES
+  - Location: `./presets/<cid>.md#<uid>`
 
+### Features
+- <samp>★</samp> <kbd>Middle Click</kbd> (<kbd>Mouse3</kbd>) to toggle the minimized state of individual widgets
+  - __`vid`__ [editor.md#minimize-individual-widgets](./features/editor.md#minimize-individual-widgets)
+- <samp>★</samp> Implement symmetrical/unified bezier curve editing
+  - <kbd>shift</kbd><samp>+</samp><kbd>click/move</kbd> <samp>=</samp> symmetrical/inverse
+  - <kbd>ctrl&nbsp;</kbd><samp>+</samp><kbd>click/move</kbd> <samp>=</samp> unified
+  - __`vid`__ [editor.md#symmetrical-unified-bezier-curve](./features/editor.md#symmetrical-unified-bezier-curve)
+- Add system-emoji font-family
 
+### Fixes
+- Fix a plethora of minor style issues
+- Remove and update [`tabindex`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/tabIndex) implementation in the dashboard to enable the use of the keyboard to switch (<kbd>tab</kbd>), open (<kbd>enter</kbd>), and close (<kbd>esc</kbd>) between `cid` styles
+  - Add additional logic to refocus after page navigation
+- Remove [W3C](https://www.w3.org) links from generated code output
+- Fix erroneous text input widget overflow/size logic
+- Fix bad `cid` link logic that pointed to [MDN](https://developer.mozilla.org/) in preview
+- Fix issue with the ActionState component where the last ease option would not be fully selected
 
+### Improvements
+- Improve scroll positioning logic for a less jarring dashboard navigation experience
+- Create a new `uid` when cloning from a shared link
+- Implement multi-tab synchronization tab election logic with reload notification
+  - __`NOTE`__ Using multiple tabs outside of livetab is not recommended for now
+- Refined the share thumbnail generation process to remove unnecessary borders and fills, for a cleaner and more visually appealing shared style thumbnail on the Social Medias
+- Improve minimum/maximum dimensions for the mobile modal
+- Adjust spacing in generated HTML preset markup for improved readability
+
+### Refactor
+- Remove meta-information and add version info when exporting the 10xCSS IndexedDB database
+- Update tooltip hover appearance on lighter backgrounds
+- Increase the lightness of all white colors by 1-2%
+- Update favicon, application description, and meta-information
+
+### Various Bit Bytes
+- Implement shorthand preset link routing `/preset#uid`, redirecting invalid URLs and providing a more user-friendly experience
+- Add dashboard preview: <kbd>↑</kbd><kbd>↓</kbd> arrow key navigation for a more convenient means of switching between individual presets
+- Implement homespun error and analytics metrics that are anonymity/non-identifiable with automatic deletion after 90 days
+  - Helps determine if cascading my twenties away on stylesheets was worth it
+  - Opt-out via the global /config (DoNotTrack toggle)
+- Update the `robots.txt` to let the bots in
 
 <br />
-
+<br />
 
 ## v0.0.3
 
@@ -177,81 +323,46 @@
 > DEMO: [v003.10xCSS.com](https://v003.10xCSS.com) <br/>
 > SPONSOR: [s003.10xCSS.com](https://s003.10xCSS.com) <br/>
 
-
 ### __BREAKING__
-- ❖ [Inputter](https://v002.10xCSS.com/dashboard/presets?cid=Inputter) - Removed and replaced with [InputFlex](https://v003.10xCSS.com/dashboard/presets?cid=InputFlex)
-
+- [Inputter](https://v002.10xCSS.com/dashboard/presets?cid=Inputter) - Remove and replace with [InputFlex](https://v003.10xCSS.com/dashboard/presets?cid=InputFlex)
 
 ### Documentation
-- ❖ Note the version number link on the bottom-left SideNav to open the [CHANGELOG](https://github.com/10xCSS/CHANGELOG) version
-- Toast info popup for "State `@media`" feature on toggle
+- Note the version number link on the bottom-left SideNav to open the [RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES) version
+- Add toast info popup for "State `@media`" feature on toggle
   - The **State @media** feature addresses unwanted persistence of `:hover` and `:focus` states after mobile touch inputs through `any-hover` queries plus an additional smart-only `:active` state. Usefulness of this feature is dependent on the `Element` it’s applied to. For a `button`, it’s quite useful, whereas for a `div`, not so much.
 - Expand `font-family` widget notes and link [Iosevka](https://typeof.net/Iosevka/) and the adoption source [Modern Font Stacks](https://modernfontstacks.com)
 
-
 ### Features
-- __`new`__ Preset/Style/Edit zoom component for improved useability and general aesthetics particularly on mobile for share.10xCSS.com
-
+- Add Preset/Style/Edit zoom component for improved usability and general aesthetics particularly on mobile for share.10xCSS.com
 
 ### Fixes
-- Corrected the initial background color when cloning a style from share.10xCSS.com
-- Added text overflow scroll to component notes
-- Disabled `auto` on `padding`, as it is not a valid option
-- Corrected the erroneous `:active` state logic in "State `@media`" code option
-- Adjusted the dashboard preview to only scroll to on initial view
+- Correct the initial background color when cloning a style from share.10xCSS.com
+- Add text overflow scroll to component notes
+- Disable `auto` on `padding`, as it is not a valid option
+- Correct the erroneous `:active` state logic in "State `@media`" code option
+- Adjust the dashboard preview to only scroll to on initial view
 - Update applied CSS state value on initial load to match output and fix incorrect display CSS
 - Fix import and restore database edge case error on fresh database
 - Ensure default (zero) history value is share value and not the default base value
 
-
 ### Improvements
-- 400% size reduction of Indexeddb size
-- Color widget input to accept `hsl`, `hsla`, `rgb`, `rgba`, and `lch` formats, in addition to the standard hex color input
-- Updated the dashboard preview to scroll to the active card tab when it's not in view
-- Included all font weights for [Iosevka](https://github.com/be5invis/Iosevka) on both the app and share domains
-
+- Reduce Indexeddb size by 400%
+- Update color widget input to accept `hsl`, `hsla`, `rgb`, `rgba`, and `lch` formats, in addition to the standard hex color input
+- Update the dashboard preview to scroll to the active card tab when it's not in view
+- Include all font weights for [Iosevka](https://github.com/be5invis/Iosevka) on both the app and share domains
 
 ### Refactor
-- ❖ Replaced the title delimiter ` | ` with ` / ` for schema unification
-- Updated share.10xCSS.com mobile styles
-- Increased the lightness of all white colors by 1-2%
+- Replace the title delimiter ` | ` with ` / ` for schema unification
+- Update share.10xCSS.com mobile styles
+- Increase the lightness of all white colors by 1-2%
 - Set "State `@media`" code generation to be disabled by default
 
-
 ### Widgets
-- __`new`__ Select widget [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
-- __`new`__ [Modern Font Stacks](https://github.com/system-fonts/modern-font-stacks) - `transition`, `old-style`, `humanist`, `geometric`, `classical`, `neo-gro`, `mono-slab`, `industrial`, `round-sans`, `slab-serif`, `antique`, `didone`, `hand`
-
-
-_-----------------------------------------------------------------------------_
-
-
-### __`cid`__ components
-- ★ __`new`__ [Pattern Graph Paper](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper) - Graph paper pattern
-- ★ __`new`__ [Pattern Waves Rippled](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternWavesRippled&uid=PatternWavesRippled__default) - Pattern of waves rippled
-- ★ __`new`__ [Pattern Circle Howling](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - Pattern of circles howling
-- ❖ __`new`__ [Gradient Card](http://demo.10xCSS.com/dashboard/presets?cid=GradientCard) - A trendy gradient card style that moves the merchandise
-
-
-### __`uid`__ presets 
-- ★ __`new`__ [PatternGraphPaper__default](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper&uid=PatternGraphPaper__default) - A graph paper pattern
-- ★ __`new`__ [PatternGraphPaper__pressf](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper&uid=PatternGraphPaper__pressf) - To pay respects to graph paper
-- ★ __`new`__ [PatternGraphPaper__tictactoe](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternGraphPaper&uid=PatternGraphPaper__tictactoe) - No description needed
-- [Pattern Waves Rippled](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternWavesRippled&uid=PatternWavesRippled__default)
-- ★ __`new`__ [PatternWavesRippled__default](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternWavesRippled&uid=PatternWavesRippled__default) - A WavesRippled pattern
-- ★ __`new`__ [PatternWavesRippled__art](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternWavesRippled&uid=PatternWavesRippled__art) - A artful WavesRippled pattern
-- ★ __`new`__ [PatternWavesRippled__artempty](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternWavesRippled&uid=PatternWavesRippled__artempty) - Does artful WavesRippled pattern look better empty?
-- [Pattern Circle Howling](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternCircleHowling&uid=PatternCircleHowling__default)
-- ★ __`new`__ [PatternCircleHowling__default](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternCircleHowling&uid=PatternCircleHowling__default) - A pattern of circles howling
-- ★ __`new`__ [PatternCircleHowling__flipped](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternCircleHowling&uid=PatternCircleHowling__flipped) - The pattern flipped around
-- ★ __`new`__ [PatternCircleHowling__groovyvanity](https://sponsor.10xCSS.com/dashboard/presets?cid=PatternCircleHowling&uid=PatternCircleHowling__groovyvanity) - A vanity mirror shape of groovy-ness
-- ❖ __`new`__ [LoaderBall__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__zerostyle) - An initial zero/blank style for the #cssexp series
-- ❖ __`new`__ [IconCandy__zerostyle](https://demo.10xCSS.com/dashboard/presets?cid=IconCandy&uid=IconCandy__zerostyle) - An initial zero/blank style for the #cssexp series
-
+- Add select widget [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+- [Modern Font Stacks](https://github.com/system-fonts/modern-font-stacks) - `transition`, `old-style`, `humanist`, `geometric`, `classical`, `neo-gro`, `mono-slab`, `industrial`, `round-sans`, `slab-serif`, `antique`, `didone`, `hand`
 
 <br />
 <br />
-
 
 ## v0.0.2
 
@@ -259,69 +370,28 @@ _-----------------------------------------------------------------------------_
 > DEMO: [v002.10xCSS.com](https://v002.10xCSS.com) <br/>
 > SPONSOR: [s002.10xCSS.com](https://s002.10xCSS.com)
 
-
 ### BREAKING
-- ❖ [LoaderBall](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall) - Updated naming schema, and  move from/to properties into own groups 
-  + __`removed`__
-    - `ball-border-radius-min` → does more harm than good with `scale-x`
-    - `ball-border-radius-min` → does more harm than good with `scale-x`
-  + __`renamed`__
-    - `ball-size` → `base-ball-size`
-    - `ball-rotate` → `base-bounce-rotation`
-    - `ball-bounceY` → `base-bounce-y`
-    - `shadow-width` → `base-shadow-height`
-    - `shadow-scaleX` → `shadow-from-to-from-scale-x`
-    - `shadow-scaleXMin` → `shadow-from-to-to-scale-x`
-    - `shadow-background`
-      + `shadow-from-to-from-background`
-      + `shadow-from-to-to-background`
-
+- [LoaderBall](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall) - Update naming schema, and move from/to properties into own groups
 
 ### Documentation
-- ❖ Make note of the dated walk-through video
+- Note the dated walk-through video
 
 ### Features
-- ★ Static demo/sponsor application links
+- <samp>★</samp> Add static demo/sponsor application links
 - Include share URL in CSS meta comment `share: <url>`
 - Include 10xCSS app version in CSS meta comment `ver: d0.0.2`
 
 ### Fixes
-- Hashing function that invalidated share images when nothing had changed on reload
+- Fix hashing function that invalidated share images when nothing had changed on reload
 - Limit `cubic-bezier` functions to 4 decimal places
-- Animation Bezier widget custom ease button overlap
+- Fix Animation Bezier widget custom ease button overlap
 
 ### Refactor
-- ★ Remove SideNav logos
+- <samp>★</samp> Remove SideNav logos
 - Use single-value notation for `border-radius` when all values are the same
 
-_-----------------------------------------------------------------------------_
-
-### __`cid`__ components
-- ❖ __`add`__ [LoaderBall](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall) - [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) property to toggle between @keyframes from/to and percentage-based rules
-
-### __`uid`__ presets 
-- ❖ __`del`__ [LoaderBall__imnotsure](https://v001.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__imnotsure)
-- ❖ __`new`__ [LoaderBall__default](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__default) - The default LoaderBall style
-- ❖ __`new`__ [LoaderBall__defaultreverse](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__defaultreverse) - The default LoaderBall style, but in reverse
-- ❖ __`new`__ [LoaderBall__defaultinverted](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__defaultinverted) - The default LoaderBall style, but inverted
-- ❖ __`new`__ [LoaderBall__almost](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__almost) - A loader animation that almost rotates
-- ❖ __`new`__ [LoaderBall__alternate](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__alternate) - LoaderBall style that alternates rotate fall direction
-- ❖ __`new`__ [LoaderBall__ballin](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__ballin) - A proper bouncing ball, that’s ballin
-- ❖ __`new`__ [LoaderBall__chatty](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__chatty) - A chat-bubble loader, response notification, or just on-hold animation
-- ❖ __`new`__ [LoaderBall__cosmopolitan](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__cosmopolitan) - A cosmopolitan, presumably enjoyed on your yacht out at sea
-- ❖ __`new`__ [LoaderBall__fromto](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__fromto) - A Flip Cup loader to demonstrate from/to @keyframes
-- ❖ __`new`__ [LoaderBall__onceasquare](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__onceasquare) - Always a square, fitting squarely inside the mold
-- ❖ __`new`__ [LoaderBall__paused](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__paused) - A paused loader style (may appear incorrectly in the dashboard preview)
-- ❖ __`new`__ [LoaderBall__romancandle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__romancandle) - A roman candle firework-like style
-- ❖ __`new`__ [LoaderBall__spinningcircle](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningcircle) - A simple, bounce-free spinning circle loader
-- ❖ __`new`__ [LoaderBall__spinningdashes](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningdashes) - A simple loader with bounce-free spinning dashes
-- ❖ __`new`__ [LoaderBall__spinningdots](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningdots) - A simple loader with bounce-free spinning dots
-- ❖ __`new`__ [LoaderBall__spinningfast](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall&uid=LoaderBall__spinningfast) - A fast loader guaranteed to boost your JS app's speed by 1000hp
-
-
 <br />
 <br />
-
 
 ## v0.0.1
 
@@ -329,49 +399,34 @@ _-----------------------------------------------------------------------------_
 > DEMO: [v001.10xCSS.com](https://v001.10xCSS.com) <br/>
 > SPONSOR: [s001.10xCSS.com](https://s001.10xCSS.com)
 
-
 ### Features
-- Current version of the application displayed at the bottom of SideNav, linked & labeled as `vX.X.X`
-  + ❖ Links to CHANGELOG 
-  + ★ Links to static version of the app for reference, stability, and consistency
+- Display current version of the application at the bottom of SideNav, linked & labeled as `vX.X.X`
+  - Links to RELEASE-NOTES
+  - <samp>★</samp> Links to static version of the app for reference, stability, and consistency
 
 ### Init
-  - [github.com/10xCSS/CHANGELOG](https://github.com/10xCSS/CHANGELOG)
-  - ★ [sponsor.10xCSS.com](https://sponsor.10xCSS.com)
-  - ★ [github.com/10xCSS/sponsor](https://github.com/10xCSS/sponsor)
-
-_-----------------------------------------------------------------------------_
-
-### __`cid`__ components
-- ★ __`new`__ [TwoDivs](https://sponsor.10xCSS.com/dashboard/presets?cid=TwoDivs) - similar to [ASimpleBox](https://demo.10xCSS.com/dashboard/presets?cid=ASimpleBox) but features two `div` elements
-- ❖ __`fix`__ [LoaderBall](https://demo.10xCSS.com/dashboard/presets?cid=LoaderBall) - added missing `box-sizing` property
-
-### __`uid`__ presets 
-- ★ __`new`__ [TwoDivs/Default](https://sponsor.10xCSS.com/dashboard/presets?cid=TwoDivs&uid=TwoDivs__default) style
+- [github.com/10xCSS/RELEASE-NOTES](https://github.com/10xCSS/RELEASE-NOTES)
+- <samp>★</samp> [sponsor.10xCSS.com](https://sponsor.10xCSS.com)
+- <samp>★</samp> [github.com/10xCSS/sponsor](https://github.com/10xCSS/sponsor)
 
 <br />
 <br />
-
 
 ## legend
 
 ```
-  ❖   = general
-  ★   = sponsor
-  new = New component/style
-  add = Add style/property to existing
-  fix = Corrections made
-  del = Style/property removed or deprecated
-  mod = Modification to existing behavior
-  imp = Improvement to existing
+# TAGS
+  ★   = Sponsor Only
+  BRK = BREAKING CHANGE
+  del = Removed/Deprecated
+  fix = Fixes/Corrections
+  imp = Improvement
+  mod = Modification
+  new = Brand Spanking New
+  vid = Video Link
+  WIP = Work In Progress
+
+# MISC
+  cid = Component ID
+  uid = Component Preset ID
 ```
-
-<!-- 
-  __`new`__ - New component/style
-  __`add`__ - Add style/property to existing
-  __`fix`__ - Corrections made
-  __`del`__ - Style/property removed or deprecated
-  __`mod`__ - Modification to existing behavior
-  __`imp`__ - Improvement to existing
- -->
-
