@@ -227,10 +227,11 @@ _(todo-video-placeholder)_
 
 ### ARCHIVE
 
-The styles listed here in the ARCHIVE have been phased out, reworked, or trashed for one reason or another. However, should the need or desire arise, you have the ability to create or alter any of these styles, as they are statically linked to the version in which they were last used with.
+The preset styles listed here have been retired, reworked, trashed, or discarded for one reason or another. However, should the need or desire arise, you have the ability to create or modify any of these presets, as they are statically linked to the version in which they were last used.
 
 
 |RateIt v1                                                                                            |[v003.10xCSS.com](https://v003.10xCSS.com/dashboard/presets?cid=RateIt)                              |                                                                                                     |
 |:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
 |[RateIt__default](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__default)          |[RateIt__emoji](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__emoji)              |[RateIt__just_text](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__just_text)      |
 |[RateIt__death](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__death)              |[RateIt__emoji_alt](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__emoji_alt)      |[RateIt__rainy_rating](https://v003.10xCSS.com/dashboard/presets?cid=RateIt&uid=RateIt__rainy_rating)|
+

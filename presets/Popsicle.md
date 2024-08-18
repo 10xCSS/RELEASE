@@ -78,10 +78,11 @@ _(todo-video-placeholder)_
 
 ### ARCHIVE
 
-The styles listed here in the ARCHIVE have been phased out, reworked, or trashed for one reason or another. However, should the need or desire arise, you have the ability to create or alter any of these styles, as they are statically linked to the version in which they were last used with.
+The preset styles listed here have been retired, reworked, trashed, or discarded for one reason or another. However, should the need or desire arise, you have the ability to create or modify any of these presets, as they are statically linked to the version in which they were last used.
 
 
 |Popsicle v1                                                                                            |[v003.10xCSS.com](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle)                              |                                                                                                       |
 |:------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
 |[Popsicle__default](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__default)      |[Popsicle__flavorless](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__flavorless)|[Popsicle__tenxcss](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__tenxcss)      |
 |[Popsicle__flat](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__flat)            |[Popsicle__pixel](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__pixel)          |[Popsicle__zero_style](https://v003.10xCSS.com/dashboard/presets?cid=Popsicle&uid=Popsicle__zero_style)|
+
