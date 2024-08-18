@@ -1,5 +1,6 @@
+# 🔴 DELETED/ARCHIVED 🔴 
 
-# [Text Outline](https://demo.10xCSS.com/preset#TextOutline)
+# ~~[Text Outline](https://v004.10xCSS.com/preset#TextOutline)~~
 
 > __`CID `__  TextOutline <br/>
 > __`DESC`__  In the shadows text comes to life. <br/>
@@ -26,7 +27,7 @@ _(todo-video-placeholder)_
 > `time`: 2023-12-26 ⇒ 2024-04-09 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TextOutline__default.png" alt="Default TextOutline style" title="Default" width="540" />
+<img src="../assets/TextOutline__default.png" alt="Default TextOutline style" title="Default" width="540" />
 
 
 ### FIRE
@@ -35,7 +36,7 @@ _(todo-video-placeholder)_
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TextOutline__fire.png" alt="Thick fire outline, that’s on the border of text-shadow abuse." title="FIRE" width="540" />
+<img src="../assets/TextOutline__fire.png" alt="Thick fire outline, that’s on the border of text-shadow abuse." title="FIRE" width="540" />
 
 
 ### TxT YoU
@@ -44,7 +45,7 @@ _(todo-video-placeholder)_
 > `time`: 2024-04-27 ⇒ 2024-04-29 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TextOutline__txt_you.png" alt="A txt outline that’s slightly thicker at the bottom" title="TxT YoU" width="540" />
+<img src="../assets/TextOutline__txt_you.png" alt="A txt outline that’s slightly thicker at the bottom" title="TxT YoU" width="540" />
 
 
 ### YOLO
@@ -53,4 +54,4 @@ _(todo-video-placeholder)_
 > `time`: 2023-12-26 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TextOutline__yolo.png" alt="Unequivocally qualifies as text-shadow abuse in all major states." title="YOLO" width="540" />
+<img src="../assets/TextOutline__yolo.png" alt="Unequivocally qualifies as text-shadow abuse in all major states." title="YOLO" width="540" />

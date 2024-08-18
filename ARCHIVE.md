@@ -2,6 +2,9 @@
 
 The styles listed here in the ARCHIVE have been phased out, reworked, or trashed for one reason or another. However, should the need or desire arise, you have the ability to create or alter any of these styles, as they are statically linked to the version in which they were last used with.
 
+> [!TIP]
+> For more information about an archived preset, refer to `/presets/archive`
+
 |Table                |of                   |Contents             |
 |:--------------------|:--------------------|:--------------------|
 |[v0.0.5](#v005)      |[v0.0.3](#v003)      |                     |

@@ -22,45 +22,45 @@ _(todo-video-placeholder)_
 
 
 ### Default
-> `desc`: Default [TimelineN](https://10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default) style <br/>
-> `link`: [v004.10xCSS.com/preset#TimelineN__default](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__default) <br/>
+> `desc`: Default [TimelineN](https://10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__default) style <br/>
+> `link`: [v004.10xCSS.com/preset#TimelineN__default](https://v004.10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__default) <br/>
 > `time`: 2022-09-14 ⇒ 2024-04-09 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TimelineN__default.png" alt="Default TimelineN style" title="Default" width="540" />
+<img src="../assets/TimelineN__default.png" alt="Default TimelineN style" title="Default" width="540" />
 
 
 ### Dark Left Pop
 > `desc`: Left orientation and dark base theme for max pop <br/>
-> `link`: [v004.10xCSS.com/preset#TimelineN__dark_left](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__dark_left) <br/>
+> `link`: [v004.10xCSS.com/preset#TimelineN__dark_left](https://v004.10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__dark_left) <br/>
 > `time`: 2022-09-14 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TimelineN__dark_left.png" alt="Left orientation and dark base theme for max pop" title="Dark Left Pop" width="540" />
+<img src="../assets/TimelineN__dark_left.png" alt="Left orientation and dark base theme for max pop" title="Dark Left Pop" width="540" />
 
 
 ### Full-Y Countless
 > `desc`: How to accomplish full Y viewport timeline without counter <br/>
-> `link`: [v004.10xCSS.com/preset#TimelineN__full_y_countless](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y_countless) <br/>
+> `link`: [v004.10xCSS.com/preset#TimelineN__full_y_countless](https://v004.10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__full_y_countless) <br/>
 > `time`: 2022-09-14 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TimelineN__full_y_countless.png" alt="How to accomplish full Y viewport timeline without counter" title="Full-Y Countless" width="540" />
+<img src="../assets/TimelineN__full_y_countless.png" alt="How to accomplish full Y viewport timeline without counter" title="Full-Y Countless" width="540" />
 
 
 ### Full-Y
 > `desc`: How to accomplish full Y viewport timeline <br/>
-> `link`: [v004.10xCSS.com/preset#TimelineN__full_y](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__full_y) <br/>
+> `link`: [v004.10xCSS.com/preset#TimelineN__full_y](https://v004.10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__full_y) <br/>
 > `time`: 2022-09-14 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TimelineN__full_y.png" alt="How to accomplish full Y viewport timeline" title="Full-Y" width="540" />
+<img src="../assets/TimelineN__full_y.png" alt="How to accomplish full Y viewport timeline" title="Full-Y" width="540" />
 
 
 ### Single Lined
 > `desc`: Single lined format ideal signaling the virtues <br/>
-> `link`: [v004.10xCSS.com/preset#TimelineN__single_lined](https://v004.10xCSS.com/dashboard/presets?cid=TimelineN&uid=TimelineN__single_lined) <br/>
+> `link`: [v004.10xCSS.com/preset#TimelineN__single_lined](https://v004.10xCSS.com/dashboard/presets?cid=TimelineNddTimelineN__single_lined) <br/>
 > `time`: 2022-09-14 ⇒ 2024-04-08 <br/>
 > `vers`: 1 <br/>
 
-<img src="./assets/TimelineN__single_lined.png" alt="Single lined format ideal signaling the virtues" title="Single Lined" width="540" />
+<img src="../assets/TimelineN__single_lined.png" alt="Single lined format ideal signaling the virtues" title="Single Lined" width="540" />

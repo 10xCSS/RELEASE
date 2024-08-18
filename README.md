@@ -55,8 +55,8 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 
 ### __BREAKING__
 - Rename this document to [RELEASE](https://github.com/10xCSS/RELEASE)
-- __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/dashboard/presets?cid=SteppedTimeline&uid=SteppedTimeline__default)
-- __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with [SteppedTimeline](https://demo.10xCSS.com/preset#SteppedTimeline)
+- __`del`__ [TimelineN](https://v004.10xCSS.com/preset#TimelineN) - replace with  [SteppedTimeline](https://demo.10xCSS.com/preset#SteppedTimeline)
+- __`del`__ [TextOutline](https://demo.10xCSS.com/preset#TextOnShadow) - replace with [TextOnShadow](https://demo.10xCSS.com/preset#TextOnShadow)
 
 
 <details>
