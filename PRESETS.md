@@ -2,7 +2,6 @@
 
 This page provides an overview of all [demo.10xCSS.com](https://demo.10xCSS.com ) components, including links and an "All-in-One" preset video. Explore, edit, or create individual components by following their live implementation "link." And for those who fancy a more static breakdown, follow the respective "/preset" directory "docs" link for descriptions, versions, and individual GIFs of each preset.
 
----
 |Table                                        |of                                           |Contents                                     |
 |:--------------------------------------------|:--------------------------------------------|:--------------------------------------------|
 |[A Simple Box](#a-simple-box)                |[Hefty Hero](#hefty-hero)                    |[Pattern WavesRippled](#pattern-wavesrippled)|
@@ -12,6 +11,11 @@ This page provides an overview of all [demo.10xCSS.com](https://demo.10xCSS.com 
 |[Cool Hover](#cool-hover)                    |[Input Radio Pop](#input-radio-pop)          |[Text On Shadow](#text-on-shadow)            |
 |[DaisyUi Toggle](#daisyui-toggle)            |[Loader Ball](#loader-ball)                  |                                             |
 |[Gradient Card](#gradient-card)              |[PaintRoller](#paintroller)                  |                                             |
+
+---
+
+<br/>
+
 
 
 ## A Simple Box
