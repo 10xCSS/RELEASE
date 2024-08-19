@@ -18,15 +18,25 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 <br />
 
 
-## v0.0.5
+## v0.0.6
 
 > __[in-progress]__ <br/>
 > DEMO: [demo.10xCSS.com](https://demo.10xCSS.com) <br/>
 
 ### __TODO/IN-PROGRESS__
 - **Marketing!** The task that makes me leap out of bed and jump with joy!!!
-- Add the backlog of new styles which are accumulating and gathering dust
 - Merge/unify the sponsor and demo applications with tag-tabbed organization of styles
+- Add the backlog of new styles which are accumulating and gathering dust
+
+
+<br />
+<br />
+
+
+## v0.0.5
+
+> __2024-08-19__ <br/>
+> DEMO: [v005.10xCSS.com](https://v005.10xCSS.com) <br/>
 
 <details>
 <summary>🟢 <h3>ADDED</h3> <i>(click to reveal)</i> </summary>
@@ -114,7 +124,7 @@ RELEASE NOTES / <a href="https://demo.10xCSS.com" title="The 10xCSS Demo">demo.1
 - Remove LZ-String compression (plan to re-implement as an optional global setting)
 - Change the expand view shortcut for better usability:
   - <kbd>click</kbd><samp>+</samp><kbd>shift/middle</kbd> <samp>=</samp> livetab
-  - <kbd>click</kbd><samp>+</samp><kbd>alt/ctrl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd> <samp>=</samp> expand
+  - <kbd>click</kbd><samp>+</samp><kbd>alt/ctrl&nbsp;&nbsp;&nbsp;&nbsp;</kbd> <samp>=</samp> expand
 
 ### Various Bit Bytes
 - Add a modal BookMe button in SideNav as my current project is nearing completion
